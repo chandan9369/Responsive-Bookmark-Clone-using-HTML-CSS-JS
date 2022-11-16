@@ -41,7 +41,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Url](https://your-solution-url.com)
+- Solution URL: [Url](https://github.com/chandan9369/Responsive-Bookmark-Clone-using-HTML-CSS-JS)
 - Live Site URL: [Url](https://responsive-bookmark-landing.netlify.app/)
 
 ### Built with
